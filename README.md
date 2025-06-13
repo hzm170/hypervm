@@ -1,4 +1,4 @@
-# HyperVM-NG
+# HyperVM
 A complete virtualization manager. Some of the features:
 
 * OpenVZ and Xen virtualization support
