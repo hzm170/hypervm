@@ -1,7 +1,7 @@
-# HyperVM
+# HyperKVM
 A complete virtualization manager. Some of the features:
 
-* OpenVZ and Xen virtualization support
+* KVM and Xen virtualization support
 * Cross Datacenter Deployment
 * Distributed management via single console
 * Hierarchical client system
@@ -25,11 +25,12 @@ Please have a look at HyperVM-NG's mailing lists and bug tracker. There is forum
 
 # Licensing - AGPLv3
 
-    HyperVM-NG, Server Virtualization GUI for OpenVZ and Xen
+    HyperVM-NG, Server Virtualization GUI for Kvm and Xen
 
     Copyright (C) 2000-2009	LxLabs
     Copyright (C) 2009-2013	LxCenter
-    Copyright (C) 2015		HyperVM-NG
+    Copyright (C) 2015		HyperVM
+    Copyright (c) 2025      HyperKVM
 
     This program is free software: you can redistribute it and/or modify
     it under the terms of the GNU Affero General Public License as
